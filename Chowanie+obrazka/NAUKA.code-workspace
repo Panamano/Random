@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Konwerter"
+		},
+		{
+			"path": "../Burger+menu"
+		},
+		{
+			"path": "../Aktualny+dzien+i+losowa+ciekawostka"
+		},
+		{
+			"path": "../Losowanie Gry"
+		},
+		{
+			"path": "../ToDo+Lista"
+		},
+		{
+			"path": "../../Board-Game-Picker"
+		},
+		{
+			"path": "../Konstruktor cwiczenie1"
+		},
+		{
+			"path": "../Fetch"
+		},
+		{
+			"path": "../WeatherApp_pliki_startowe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "WeatherApp_pliki_startowe"
+	}
+}
